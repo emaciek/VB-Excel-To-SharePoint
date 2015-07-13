@@ -80,6 +80,7 @@ arglist.Item(2) means that you are putting conents of the second column from you
 - If there is any error we are showing popup with xml response.
 - You can see more debug information in VBA editor in "Immediate" window.
 - After items creation in SharePoint, we are opening this list in browser and filtering it through order number. In that way user will be able to see, what was added, and maybe change something in SharePoint editing.
+
 #License
 Creative commons attribution license
 https://creativecommons.org/licenses/by/3.0/
